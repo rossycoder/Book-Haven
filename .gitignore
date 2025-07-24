@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: ignore build or dist folders (for compiled code)
+dist/
+build/
